@@ -1,0 +1,149 @@
+{
+ "greeting_name": "Martina",
+ "dock": [
+  "3",
+  "2568",
+  "295",
+  "2378"
+ ],
+ "apps": [
+  {
+   "appId": "3",
+   "name": "YouTube",
+   "url": "https://www.youtube.com/tv",
+   "icon": "3.png"
+  },
+  {
+   "appId": "2568",
+   "name": "Stremio",
+   "url": "https://relvhgchz5.strem.io/hello-world/index.html",
+   "icon": "2568.webp"
+  },
+  {
+   "appId": "295",
+   "name": "Disney+",
+   "url": "https://cd-dmgz.bamgrid.com/bbd/hisense_tv/index.html",
+   "icon": "295.png"
+  },
+  {
+   "appId": "2378",
+   "name": "HBO Max",
+   "url": "https://vidaa.play.max.com/",
+   "icon": "2378.png"
+  },
+  {
+   "appId": "351",
+   "name": "Apple TV",
+   "url": "https://atve.tv.apple.com/94819831-5404-4438-810e-afb648d6a826/tvw_1dc2aab0a313427dbc11818be8a18bd9/",
+   "icon": "351.png"
+  },
+  {
+   "appId": "246",
+   "name": "Movistar Plus+",
+   "url": "https://vodclientui.emisiondof6.com/prod/apps/hisense/nux/index.html",
+   "icon": "246.png"
+  },
+  {
+   "appId": "2396",
+   "name": "SkyShowtime",
+   "url": "https://tv.clients.skyshowtime.com/vidaa.html",
+   "icon": "2396.png"
+  },
+  {
+   "appId": "162",
+   "name": "DAZN",
+   "url": "https://tv.dazn.com/app/vidaa/",
+   "icon": "162.png"
+  },
+  {
+   "appId": "1670",
+   "name": "RTVE Play",
+   "url": "https://hbbtv.rtve.es/tv/play/smarttv/hisense/",
+   "icon": "1670.png"
+  },
+  {
+   "appId": "265",
+   "name": "ATRESplayer",
+   "url": "https://smarttv.atresplayer.com/hisense/",
+   "icon": "265.jpeg"
+  },
+  {
+   "appId": "181",
+   "name": "Mediaset Infinity",
+   "url": "https://static1.mediasetplay.mediaset.it/esp/app/ctv-lng/vidaa/index.html",
+   "icon": "181.png"
+  },
+  {
+   "appId": "140",
+   "name": "Filmin",
+   "url": "https://hi.filmin.es/index.html",
+   "icon": "140.png"
+  },
+  {
+   "appId": "65",
+   "name": "Rakuten TV",
+   "url": "https://prod-hisense-ui40-app.rakuten.tv/",
+   "icon": "65.png"
+  },
+  {
+   "appId": "173",
+   "name": "Pluto TV",
+   "url": "https://app-hisense.pluto.tv/",
+   "icon": "173.jpeg"
+  },
+  {
+   "appId": "2256",
+   "name": "Spotify",
+   "url": "https://api-partner.spotify.com/tvapp?platform=vidaa",
+   "icon": "2256.jpeg"
+  },
+  {
+   "appId": "376",
+   "name": "Amazon Music",
+   "url": "https://html5tv.music.amazon.dev/?deviceModel=A27F3L5WMHDOWD",
+   "icon": "376.png"
+  },
+  {
+   "appId": "2372",
+   "name": "Crunchyroll",
+   "url": "https://www.crunchyroll.com/tetsuo/hisense-vidaa/",
+   "icon": "2372.png"
+  },
+  {
+   "appId": "42",
+   "name": "Plex",
+   "url": "https://app.plex.tv/tv-vidaa",
+   "icon": "42.png"
+  },
+  {
+   "appId": "230",
+   "name": "MUBI",
+   "url": "https://tv-production.mubi.com/vidaa/4.0.0/",
+   "icon": "230.png"
+  },
+  {
+   "appId": "98",
+   "name": "RTVE Clan",
+   "url": "https://www.rtve.es/tv/play-clan/smarttv/hisense/",
+   "icon": "98.png"
+  },
+  {
+   "appId": "47",
+   "name": "Deezer",
+   "url": "https://tv2.deezer.com/hisense",
+   "icon": "47.png"
+  },
+  {
+   "appId": "79",
+   "name": "Red Bull TV",
+   "url": "https://vidaa-v2.redbull.tv",
+   "icon": "79.png"
+  },
+  {
+   "appId": "293",
+   "name": "NBA",
+   "url": "https://cweb-ott.nba.com/",
+   "icon": "293.png"
+  }
+ ]
+}
